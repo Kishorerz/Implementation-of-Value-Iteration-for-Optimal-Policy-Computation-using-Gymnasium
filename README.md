@@ -10,34 +10,28 @@ To implement the **Value Iteration** algorithm for solving a finite Markov Decis
 ## Problem Statement
 
 
----
+
+
+
 
 ## Software Requirements
-
-
-
----
 
 ## Environment Description
 
 
----
-
 ## MDP Representation
 
-
----
 
 ## Theory
 
 
----
+
 
 ## Algorithm
 
 
 
----
+
 
 ## Python Program
 
